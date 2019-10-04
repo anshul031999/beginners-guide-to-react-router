@@ -4,7 +4,7 @@
 
 This goes along with the medium post [Beginner's Guide to React Router](https://medium.com/p/53094349669/)
 
-**To get started with this project, do the following:**
+**To get started with this project, do as directed below:**
 
 1. Git clone the project
 2. cd into the project directory
